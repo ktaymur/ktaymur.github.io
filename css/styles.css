@@ -11,6 +11,13 @@ header {
 
 h1, h2  {
     font-family: "DM Serif Display";
+    font-size: 30px;
+}
+h3{
+    font-size: 25px;
+}
+.main-text {
+    font-size: 20px;
 }
 
 .header-logo{
@@ -20,6 +27,12 @@ h1, h2  {
 
 img{
     width: 100%;
+}
+.menu-item:focus, .menu-item:hover{
+    text-decoration: underline;
+}
+.p2{
+    padding-top: 20px;
 }
 
 .main-logo{
@@ -299,6 +312,10 @@ h3{
     }
     .media-icon{
         width: 15vw;
+    }
+    .main-text, .categories{
+        font-size: 25px;
+        margin: 0 40px;
     }
     
 } 
