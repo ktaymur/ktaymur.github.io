@@ -30,12 +30,15 @@ img{
 
 .description{
     margin: 40px 30px 0 30px;
-    padding: 10px 15px 10px 15px;
+    padding: 30px 20px ;
     border-top: 1px;
     border-bottom: 1px;
     border-top-style: solid;
     border-bottom-style: solid;
     border-color: #3BA7B8;
+}
+ul{
+    padding-top: 20px;
 }
 
 h2{
@@ -171,7 +174,7 @@ footer{
 
 .button-style-1:hover, .button-style-1:focus{
     color: white;
-    background-color: #3BA7B8;
+    background-color: #2A808D;
 }
 
 h4{
@@ -199,7 +202,7 @@ h4{
     padding-top: 10px;
 }
 .button-style-2{
-    background-color: #3BA7B8;
+    background-color: #2A808D;
     color: white;
     display: inline-flex;
     justify-content: center;
